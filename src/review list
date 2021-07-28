@@ -1,0 +1,48 @@
+Round 2:
+    0235 && 0236 - Lowest Common Ancestor
+    0169 - Six different ways to find majority element
+    0212 - Word Search II - use Trie properly
+    0407 - How to approach the problem in a different way
+    0033 - Rotated sorted array
+    0004 - Another use of binary search
+    0152 - Handle 0 and negative values properly, two way traversal
+    0121, 0122, 0123, 0188, 0309, 0714 - Best Time to Buy and Sell Stock series
+    0010 - Regular Expression Matching
+    0253 - Meeting Rooms II
+    0336 - Palindrome Pairs
+
+Round 1:
+Array
+    0215 - Quick Sort
+    0018 - kSum
+LinkedList
+    0025 - Reverse k-group nodes
+Tree
+    0235 && 0236 - Lowest Common Ancestor
+    0111 - Minimum Depth of a Binary Tree
+Divide and Conquer
+    0050 - Binary Exponentiation
+    0169 - Six different ways to find majority element
+DFS
+    0051 - N-Queens
+    0036 && 0037 - Sudoku (box index)
+    0079 - Word Search - (handle offsets)
+    0212 - Word Search II - use Trie properly
+BFS
+    0407 - How to approach the problem in a different way
+Binary Search
+    0069 - Sqrt (avoid overflow + 4 solutions + double result)
+    0033 - Rotated sorted array
+    0004 - Another use of binary search
+DP
+    0152 - Handle 0 and negative values properly, two way traversal
+    0121, 0122, 0123, 0188, 0309, 0714 - Best Time to Buy and Sell Stock series
+    0322 - Think this with climbing stairs
+    1143*, 0583, 0712, 0072 - Longest Common Sequence series
+    0010 - how to use recursion properly then convert it to DP
+Greedy
+    0253 - Meeting Rooms II
+Slide Window
+    0003 - Properly use slide window method
+String Manipulation
+    0336 - How to find a proper data structure or method to check combined palindromes
