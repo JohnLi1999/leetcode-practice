@@ -53,6 +53,10 @@ public class ListNode {
     }
 
     public static void printList(ListNode listNode) {
+        if (listNode == null) {
+            System.out.print("null");
+            return;
+        }
         if (listNode.next == null) {
             System.out.println(listNode.val);
             return;
