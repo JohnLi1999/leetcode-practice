@@ -54,7 +54,7 @@ public class ListNode {
 
     public static void printList(ListNode listNode) {
         if (listNode == null) {
-            System.out.print("null");
+            System.out.println("null");
             return;
         }
         if (listNode.next == null) {
