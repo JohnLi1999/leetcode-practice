@@ -128,7 +128,19 @@
     - e.g. `Arrays.sort(intervals, Comparator.comparingInt(o -> o[0]));`
     
 ## TreeMap
--  `TreeMap​(Comparator<? super K> comparator)`
+- `TreeMap​(Comparator<? super K> comparator)`
     - Constructs a new, empty tree map, ordered according to the given comparator.
 - `K firstKey()`
     - Returns the first (lowest) key currently in this map.
+
+## `Interface BiFunction<T,​U,​R>`
+-  `R apply​(T t, U u)`
+    - Applies this function to the given arguments.
+
+## `Interface ToIntFunction<T>`
+- `int applyAsInt​(T value)`
+    - Applies this function to the given argument.
+    
+## `Interface ToIntBiFunction<T,​U>`
+- `int applyAsInt​(T t, U u)`
+    - Applies this function to the given arguments.
